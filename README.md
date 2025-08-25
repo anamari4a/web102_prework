@@ -1,40 +1,37 @@
-# WEB102 Prework - *Name of App Here*
+# WEB102 Prework - SM Crowdfunding
 
-Submitted by: **Your Name Here**
+Submitted by:  Ana Maria Carrillo
 
-**Name of your app** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
+**SM Crowdfunding** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
-Time spent: **X** hours spent in total
+Time spent: **14** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-* [ ] The introduction section explains the background of the company and how many games remain unfunded.
-* [ ] The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games.
-* [ ] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
-* [ ] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
+* [+] The introduction section explains the background of the company and how many games remain unfunded.
+* [+] The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games.
+* [+] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
+* [+] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
 
 The following **optional** features are implemented:
 
-* [ ] List anything else that you can get done to improve the app functionality!
+* [+] Developed CSS styling that simulated a sleek, futuristic video game aesthetic. 
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<div style="position: relative; padding-bottom: 54.479166666666664%; height: 0;"><iframe src="https://www.loom.com/embed/78e76b2b9028420a9a84416a5232d4c5?sid=3f4d53a6-c094-42b0-89cc-c9210886dbf7" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+https://www.loom.com/share/78e76b2b9028420a9a84416a5232d4c5?sid=67219660-a432-4c7a-9a75-e6c78423fe47
 
-## Notes
+GIF created with Loom
 
-Describe any challenges encountered while building the app.
+## Notes 
+- Using JavaScript array methods like `reduce` and `filter` was challenging, especially when extracting and summing specific properties from an array of objects. 
+- Practicing the spread operator and destructuring was a bit challenging when selecting and displaying the top two games. Sorting the array and using these features to efficiently extract and present the correct game information required practice. 
 
 ## License
 
