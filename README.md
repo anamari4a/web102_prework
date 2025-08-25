@@ -23,8 +23,6 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<div style="position: relative; padding-bottom: 54.479166666666664%; height: 0;"><iframe src="https://www.loom.com/embed/78e76b2b9028420a9a84416a5232d4c5?sid=3f4d53a6-c094-42b0-89cc-c9210886dbf7" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
-
 https://www.loom.com/share/78e76b2b9028420a9a84416a5232d4c5?sid=67219660-a432-4c7a-9a75-e6c78423fe47
 
 GIF created with Loom
